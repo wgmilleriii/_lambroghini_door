@@ -10,7 +10,7 @@ module yellow() {
 	
 	difference() {
 
-	// down
+	// down 
 
 	translate([0,0,-grey_depth1])	{
 		// move to first grey pin
